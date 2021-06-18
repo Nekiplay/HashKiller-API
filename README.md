@@ -1,4 +1,4 @@
-# HashKiller-API
+# HashKiller API
 
 **Create API Client:**
 ```C#
